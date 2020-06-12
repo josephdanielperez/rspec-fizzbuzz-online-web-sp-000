@@ -10,3 +10,8 @@ elsif (int % 3 == 0) && (int % 5 == 0)
   puts "FizzBuzz"
   else false
 end
+
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(15)
+fizzbuzz(4)
