@@ -9,3 +9,5 @@ elsif int % 5 == 0
 else (int % 3 == 0) && (int % 5 == 0)
   return "FizzBuzz"
 end
+
+fizzbuzz(3)
