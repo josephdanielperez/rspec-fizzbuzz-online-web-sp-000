@@ -9,7 +9,7 @@ elsif int % 5 == 0
   puts "Buzz"
 elsif (int % 3 == 0) && (int % 5 == 0)
   puts "FizzBuzz"
-  else false
+else int (!% 3 == 0) || (int !% 5 == 0)
 end
 
 fizzbuzz(3)
